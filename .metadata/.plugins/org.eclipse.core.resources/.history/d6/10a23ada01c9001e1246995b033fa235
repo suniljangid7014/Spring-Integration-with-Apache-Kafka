@@ -1,0 +1,7 @@
+package com.infy.config;
+
+public class AppConstant {
+	
+	public static final TOPIC_NAME = "location-update-topic";
+
+}
